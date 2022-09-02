@@ -1,1 +1,1 @@
-shell navigation devops
+displays the working directory
